@@ -14,6 +14,7 @@
 		"statusBar.foreground": "#ffb300",
 		"tab.inactiveBackground": "#012931",
 		"titleBar.activeBackground": "#012931",
+		"editor.selectionBackground": "#c0c29f69"
 	},
 	"tokenColors": [
 		{
@@ -133,7 +134,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#785EFF"
+				"foreground": "#C6BCFF"
 			}
 		},
 		{
