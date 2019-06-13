@@ -1,0 +1,26 @@
+{
+    "name": "perfect-c",
+    "displayName": "Perfect C",
+    "description": "Perfect C Theme - Perfect Contrast for readability and less eye strain",
+    "version": "0.0.1",
+    "publisher": "LFaudreeJr",
+    "engines": {
+        "vscode": "^1.35.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Perfect C",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Perfect C-color-theme.json"
+            }
+        ]
+    },
+    "galleryBanner": {
+        "color": "#2a525b",
+        "theme": "dark"
+    }
+}
